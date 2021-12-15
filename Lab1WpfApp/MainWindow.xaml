@@ -21,7 +21,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="502,79,0,0" Width="252" Height="339"/>
+        <TextBox  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="502,79,0,0" Width="252" Height="339"/>
         <Button Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="27,79,0,0" Width="82" Height="71" Foreground="#FF0F0F0F" FontWeight="Bold" FontSize="24" FontFamily="Segoe UI Historic" BorderBrush="#FFF1DC0A"/>
         <Button Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="130,79,0,0" Width="82" Height="71" Foreground="#FF0F0F0F" FontWeight="Bold" FontSize="24" FontFamily="Segoe UI Historic" BorderBrush="#FFF1DC0A" RenderTransformOrigin="2.305,0.476"/>
         <Button Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="238,79,0,0" Width="82" Height="71" Foreground="#FF0F0F0F" FontWeight="Bold" FontSize="24" FontFamily="Segoe UI Historic" BorderBrush="#FFF1DC0A" RenderTransformOrigin="4.411,-0.599"/>
